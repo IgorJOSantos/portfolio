@@ -81,7 +81,7 @@ body {
     gap: 16px;
 }
 
-.apresentacao__links__apresentacao:hover {
+.apresentacao__links__navegacao:hover {
     background-color:var(--cor-hover);
 }
 .apresentacao__imagem {
